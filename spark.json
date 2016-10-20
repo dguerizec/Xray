@@ -1,0 +1,7 @@
+{
+    "name": "Xray",
+    "version": "0.0.1",
+    "author": "David Guerizec <david@guerizec.net>",
+    "license": "MIT",
+    "description": "Xray is a firmware overlay for Particle Photon"
+}
